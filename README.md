@@ -59,5 +59,5 @@ O curso é composto por cinco aulas dinâmicas, cobrindo os seguintes tópicos:
 
 ## **Informações Adicionais**  
 - **Duração:** 5 aulas (20 horas).  
-- **Formato:** Online ou presencial.  
+- **Formato:** Online.  
 - **Público-Alvo:** Líderes, profissionais de tecnologia e negócios interessados em transformação digital e inovação.  
