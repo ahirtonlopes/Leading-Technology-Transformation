@@ -4,6 +4,8 @@
 ## **Descrição do Curso**  
 O curso **Leading Technology Transformation** prepara líderes e profissionais para navegar e liderar a revolução tecnológica em um mundo impactado por dados, inteligência artificial e tecnologias emergentes. Por meio de uma abordagem prática e estratégica, o curso explora conceitos como transformação tecnológica, aprendizado de máquina, deep learning, GenAI, web3, criptoativos e criação de produtos inovadores.  
 
+Drive com o conteúdo de slides das aulas: https://drive.google.com/drive/folders/1RaKS16vsp59d2CtlsqjyB71U4Oo8AQvy?usp=sharing
+
 ---
 
 ## **Estrutura do Curso**  
